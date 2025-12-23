@@ -1,0 +1,36 @@
+{
+  "name": "dependency-therapist",
+  "version": "1.0.0",
+  "description": "Emotional support for your package.json - therapy for dependency conflicts",
+  "main": "dependency-therapist.js",
+  "bin": {
+    "dependency-therapist": "./dependency-therapist.js"
+  },
+  "scripts": {
+    "test": "echo \"Therapy sessions can't be tested, only experienced\" && exit 0",
+    "start": "node dependency-therapist.js",
+    "therapy": "node dependency-therapist.js"
+  },
+  "keywords": [
+    "dependencies",
+    "therapy",
+    "package.json",
+    "npm",
+    "debugging",
+    "humor",
+    "productivity"
+  ],
+  "author": "Dr. Dependency Therapist",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/dependency-therapist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/dependency-therapist/issues"
+  },
+  "homepage": "https://github.com/yourusername/dependency-therapist#readme"
+}
